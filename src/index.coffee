@@ -1,4 +1,4 @@
-win32 = require('./win32')
+win32 = require('./win')
 posix = require('./posix')
 
 isWindows = win32.isWindows
