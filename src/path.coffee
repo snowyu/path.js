@@ -297,3 +297,5 @@ module.exports = class Path
     }
 
   _makeLong: (path) -> path
+
+Path.path = new Path

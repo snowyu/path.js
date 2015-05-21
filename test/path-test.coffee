@@ -107,6 +107,10 @@ describe "general path functions", ->
     path.sep = '/'
     path.delimiter = ':'
 
+  it "should have a global path instance on Path class", ->
+    Path.should.have.ownProperty 'path'
+    Path.path.should.be.instanceof Path
+
   describe "trimArray", ->
 
     it "should trim array from left", ->
