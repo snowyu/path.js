@@ -1,7 +1,7 @@
 {
-  "name": "path-ex",
+  "name": "path.js",
   "description": "Browser-friendly enhanced path fully compatible with standard node.js",
-  "homepage": "https://github.com/snowyu/path-ex.js",
+  "homepage": "https://github.com/snowyu/path.js",
   "version": "1.0.0",
   "author": {
     "name": "Riceball LEE",
@@ -23,9 +23,9 @@
     "browserify"
   ],
   "main": "./index.js",
-  "repository": "git://github.com/snowyu/path-ex.js",
+  "repository": "git://github.com/snowyu/path.js",
   "bugs": {
-    "url": "https://github.com/snowyu/path-ex.js/issues"
+    "url": "https://github.com/snowyu/path.js/issues"
   },
   "license": "MIT",
   "devDependencies": {
