@@ -69,7 +69,7 @@ module.exports = class Path
       aPath = aPath.substring(0, aPath.length - 1)
     ###
     if aPath and aPath.length
-      @trimArray arr[1].split @_sep
+      @trimArray aPath.split @_sep
     else
       []
   # resolves . and .. elements in a path array with directory names there
