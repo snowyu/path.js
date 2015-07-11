@@ -348,7 +348,7 @@ describe "general path functions", ->
       checkParseFormat path, unixPaths
       checkErrors path
       checkFormat path, unixSpecialCaseFormatTests
-  describe "#toArray", ->
+  describe "toArray", ->
     it 'should convert path string to array', ->
       assert.deepEqual path.toArray('/hi/world/is'), ['hi', 'world', 'is']
       assert.deepEqual path.toArray('hi/world/is'), ['hi', 'world', 'is']

@@ -384,3 +384,8 @@ describe "win path functions", ->
       checkParseFormat path, winPaths
       checkErrors path
       checkFormat path, winSpecialCaseFormatTests
+  describe "toArray", ->
+    it 'should convert path string to array', ->
+      assert.deepEqual path.toArray('c:\\hi\\world\\is'), ['c:\\','hi', 'world', 'is']
+      assert.deepEqual path.toArray('hi/world/is'), ['hi', 'world', 'is']
+      assert.deepEqual path.toArray('hi/world/is.ext'), ['hi', 'world', 'is.ext']

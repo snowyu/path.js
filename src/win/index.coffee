@@ -44,6 +44,7 @@ class WinPath
       root = arr[0]
       result = @trimArray arr[1].split /[\\\/]+/
       result.unshift root if root and (root isnt '\\' or root isnt '/')
+      result.push arr[2]
       result
     else
       result = []
