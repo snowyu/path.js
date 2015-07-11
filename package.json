@@ -2,7 +2,7 @@
   "name": "path.js",
   "description": "Browser-friendly enhanced path fully compatible with standard node.js",
   "homepage": "https://github.com/snowyu/path.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": {
     "name": "Riceball LEE",
     "email": "snowyu.lee@gmail.com"
