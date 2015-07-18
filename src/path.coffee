@@ -80,14 +80,19 @@ module.exports = class Path
   normalizeArray: (parts, allowAboveRoot) ->
     res = []
     i = 0
+    vSep = @_sep
     if isNullOrUndefined(allowAboveRoot) and parts[0] and parts[0].length
-      switch parts[0][0]
+      switch parts[i][0]
         when '.'
           allowAboveRoot = true
           i++
-        when @_sep
+          if parts[i-1].length is 1
+            i++ while i < parts.length and parts[i] is '.'
+        when vSep
           allowAboveRoot = false
           i++
+          if parts[i-1].length is vSep.length
+            i++ while i < parts.length and parts[i] is vSep
     while i < parts.length
       p = parts[i]
       # ignore empty parts

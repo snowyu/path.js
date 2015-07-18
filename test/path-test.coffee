@@ -10,6 +10,7 @@ path            = new Path
 
 #arguments                     result
 commonTests = [
+     [['/', '/', '.', '..', 'b','c.js'], '/b/c.js'],
      [['.', 'x', 'b', '..', 'b','c.js'], 'x/b/c.js'],
      [['/.', 'x','b', '..', 'b','c.js'], '/x/b/c.js'],
      [['/foo', '../../../bar'], '/bar'],
