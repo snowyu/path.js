@@ -258,6 +258,15 @@ module.exports = class Path
     if ext and f.substr(-1 * ext.length) == ext
       f = f.substr(0, f.length - (ext.length))
     f
+  replaceExt: (path, ext)->
+    v = @splitPath(path)
+    f = v[2]
+    dir = v[0] + v[1]
+    oldExt = v[3]
+    # TODO: make this comparison case-insensitive on windows?
+    if oldExt and f.substr(-1 * oldExt.length) == oldExt
+      f = f.substr(0, f.length - (oldExt.length))
+    dir+f+ext
 
   extname: (path) ->
     @splitPath(path)[3]

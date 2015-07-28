@@ -389,3 +389,8 @@ describe "win path functions", ->
       assert.deepEqual path.toArray('c:\\hi\\world\\is'), ['c:\\','hi', 'world', 'is']
       assert.deepEqual path.toArray('hi/world/is'), ['hi', 'world', 'is']
       assert.deepEqual path.toArray('hi/world/is.ext'), ['hi', 'world', 'is.ext']
+  describe "replaceExt", ->
+    it 'should replace the path\'s extname', ->
+      assert.strictEqual path.replaceExt('c:\\dd3\\coffee\\ff.coffee', '.test') , 'c:\\dd3\\coffee\\ff.test'
+      assert.strictEqual path.replaceExt('coffee/coffee.coffee', '.test') , 'coffee/coffee.test'
+      assert.strictEqual path.replaceExt('coffee.coffee', '.test') , 'coffee.test'

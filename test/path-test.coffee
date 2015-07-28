@@ -353,3 +353,8 @@ describe "general path functions", ->
     it 'should convert path string to array', ->
       assert.deepEqual path.toArray('/hi/world/is'), ['hi', 'world', 'is']
       assert.deepEqual path.toArray('hi/world/is'), ['hi', 'world', 'is']
+  describe "replaceExt", ->
+    it 'should replace the path\'s extname', ->
+      assert.strictEqual path.replaceExt('/dd3/coffee/ff.coffee', '.test') , '/dd3/coffee/ff.test'
+      assert.strictEqual path.replaceExt('coffee/coffee.coffee', '.test') , 'coffee/coffee.test'
+      assert.strictEqual path.replaceExt('coffee.coffee', '.test') , 'coffee.test'
