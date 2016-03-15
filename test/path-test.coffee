@@ -187,7 +187,7 @@ describe "general path functions", ->
 
   describe "basename", ->
     it 'should get basename from path', ->
-      f = __filename
+      f = '/sddsds/aasas/ddd/test/path-test.coffee'
       assert.equal path.basename(f), 'path-test.coffee'
       assert.equal path.basename(f, '.coffee'), 'path-test'
 
@@ -212,7 +212,7 @@ describe "general path functions", ->
 
   describe "dirname", ->
     it 'should get dirname from path', ->
-      f = __filename
+      f = '/sddsds/aasas/ddd/test/path-test.coffee'
       assert.equal path.dirname(f).substr(-4), 'test'
       assert.equal path.dirname('/a/b/'), '/a'
       assert.equal path.dirname('/a/b'), '/a'
@@ -223,7 +223,7 @@ describe "general path functions", ->
 
   describe "extname", ->
     it 'should get ext name from path', ->
-      f = __filename
+      f = '/sddsds/aasas/ddd/test/path-test.coffee'
       assert.equal path.extname(f), '.coffee'
       assert.equal path.extname(''), ''
       assert.equal path.extname('/path/to/file'), ''

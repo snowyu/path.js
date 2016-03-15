@@ -5,7 +5,7 @@ assert          = chai.assert
 should          = chai.should()
 chai.use(sinonChai)
 
-path            = require "../"
+path            = require "../src"
 
 
 isWindows = process.platform == 'win32'
