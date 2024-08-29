@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[index.js:9](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/index.js#L9)
+[index.js:9](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/index.js#L9)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[index.js:8](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/index.js#L8)
+[index.js:8](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/index.js#L8)

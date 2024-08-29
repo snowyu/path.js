@@ -76,7 +76,7 @@ Constructs a new Path instance for handling file path operations.
 
 #### Defined in
 
-[path.js:16](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L16)
+[path.js:16](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L16)
 
 ## Properties
 
@@ -94,7 +94,7 @@ Path
 
 #### Defined in
 
-[path.js:611](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L611)
+[path.js:611](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L611)
 
 ___
 
@@ -112,7 +112,7 @@ Path
 
 #### Defined in
 
-[path.js:602](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L602)
+[path.js:602](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L602)
 
 ___
 
@@ -132,7 +132,7 @@ Path
 
 #### Defined in
 
-[path.js:622](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L622)
+[path.js:622](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L622)
 
 ___
 
@@ -144,7 +144,7 @@ The path delimiter character.
 
 #### Defined in
 
-[path.js:85](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L85)
+[path.js:85](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L85)
 
 ___
 
@@ -162,7 +162,7 @@ Path
 
 #### Defined in
 
-[path.js:583](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L583)
+[path.js:583](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L583)
 
 ___
 
@@ -174,9 +174,9 @@ The path separator character.
 
 #### Defined in
 
-[path.js:75](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L75)
+[path.js:75](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L75)
 
-[path.js:78](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L78)
+[path.js:78](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L78)
 
 ___
 
@@ -186,7 +186,7 @@ ___
 
 #### Defined in
 
-[path.js:111](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L111)
+[path.js:111](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L111)
 
 ___
 
@@ -200,7 +200,7 @@ path separator character.
 
 #### Defined in
 
-[path.js:94](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L94)
+[path.js:94](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L94)
 
 ___
 
@@ -218,7 +218,7 @@ Path
 
 #### Defined in
 
-[path.js:631](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L631)
+[path.js:631](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L631)
 
 ## Methods
 
@@ -249,7 +249,7 @@ Path
 
 #### Defined in
 
-[path.js:399](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L399)
+[path.js:399](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L399)
 
 ___
 
@@ -280,7 +280,7 @@ Path
 
 #### Defined in
 
-[path.js:351](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L351)
+[path.js:351](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L351)
 
 ___
 
@@ -310,7 +310,7 @@ Path
 
 #### Defined in
 
-[path.js:571](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L571)
+[path.js:571](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L571)
 
 ___
 
@@ -341,7 +341,7 @@ Path
 
 #### Defined in
 
-[path.js:466](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L466)
+[path.js:466](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L466)
 
 ___
 
@@ -365,7 +365,7 @@ Path
 
 #### Defined in
 
-[path.js:279](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L279)
+[path.js:279](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L279)
 
 ___
 
@@ -395,7 +395,7 @@ Path
 
 #### Defined in
 
-[path.js:444](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L444)
+[path.js:444](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L444)
 
 ___
 
@@ -425,7 +425,7 @@ Path
 
 #### Defined in
 
-[path.js:502](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L502)
+[path.js:502](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L502)
 
 ___
 
@@ -455,7 +455,7 @@ Path
 
 #### Defined in
 
-[path.js:513](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L513)
+[path.js:513](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L513)
 
 ___
 
@@ -485,7 +485,7 @@ Path
 
 #### Defined in
 
-[path.js:244](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L244)
+[path.js:244](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L244)
 
 ___
 
@@ -516,7 +516,7 @@ Path
 
 #### Defined in
 
-[path.js:384](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L384)
+[path.js:384](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L384)
 
 ___
 
@@ -547,7 +547,7 @@ Path
 
 #### Defined in
 
-[path.js:256](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L256)
+[path.js:256](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L256)
 
 ___
 
@@ -579,7 +579,7 @@ Path
 
 #### Defined in
 
-[path.js:158](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L158)
+[path.js:158](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L158)
 
 ___
 
@@ -609,7 +609,7 @@ Path
 
 #### Defined in
 
-[path.js:542](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L542)
+[path.js:542](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L542)
 
 ___
 
@@ -640,7 +640,7 @@ Path
 
 #### Defined in
 
-[path.js:411](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L411)
+[path.js:411](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L411)
 
 ___
 
@@ -671,7 +671,7 @@ Path
 
 #### Defined in
 
-[path.js:483](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L483)
+[path.js:483](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L483)
 
 ___
 
@@ -704,7 +704,7 @@ Path
 
 #### Defined in
 
-[path.js:331](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L331)
+[path.js:331](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L331)
 
 ___
 
@@ -737,7 +737,7 @@ Path
 
 #### Defined in
 
-[path.js:293](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L293)
+[path.js:293](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L293)
 
 ___
 
@@ -768,7 +768,7 @@ Path
 
 #### Defined in
 
-[path.js:122](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L122)
+[path.js:122](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L122)
 
 ___
 
@@ -799,7 +799,7 @@ Path
 
 #### Defined in
 
-[path.js:134](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L134)
+[path.js:134](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L134)
 
 ___
 
@@ -829,7 +829,7 @@ Path
 
 #### Defined in
 
-[path.js:211](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L211)
+[path.js:211](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L211)
 
 ___
 
@@ -855,4 +855,4 @@ Path
 
 #### Defined in
 
-[path.js:110](https://github.com/snowyu/path.js/blob/d99f7d146a1759ca42719ad3a7dded5404fe6ec5/src/path.js#L110)
+[path.js:110](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/path.js#L110)
