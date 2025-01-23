@@ -44,8 +44,8 @@ Re-exports [WinPath](../classes/win.WinPath.md)
 
 #### Defined in
 
-[index.js:7](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/index.js#L7)
+[index.js:7](https://github.com/snowyu/path.js/blob/c34833c08da551f86415141ffe1b968a62345579/src/index.js#L7)
 
-[index.js:8](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/index.js#L8)
+[index.js:8](https://github.com/snowyu/path.js/blob/c34833c08da551f86415141ffe1b968a62345579/src/index.js#L8)
 
-[index.js:9](https://github.com/snowyu/path.js/blob/469789d52617c44019fccf4643e8126e37a697a3/src/index.js#L9)
+[index.js:9](https://github.com/snowyu/path.js/blob/c34833c08da551f86415141ffe1b968a62345579/src/index.js#L9)
