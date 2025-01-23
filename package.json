@@ -68,6 +68,6 @@
   },
   "dependencies": {
     "inherits-ex": "^2.1.0",
-    "util-ex": "^2.0.0"
+    "util-ex": "^2.1.0"
   }
 }
