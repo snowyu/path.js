@@ -628,6 +628,6 @@ Path.prototype._splitPathReStr = '^(&SEP&?|)([\\s\\S]*?)((?:\\.{1,2}|[^' + '&SEP
  * @static
  * @type {boolean}
  */
-Path.isWindows = process.platform === 'win32';
+Path.isWindows = typeof process === 'object' && process.platform === 'win32';
 
 export default Path

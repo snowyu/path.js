@@ -248,7 +248,7 @@ export class WinPath extends Path {
       } else if (!resolvedDevice) {
         vPath = vCwd;
       } else {
-        vpath = process.env['=' + resolvedDevice];
+        vpath = typeof process === 'object' && process.env['=' + resolvedDevice];
         if (!vpath || vpath.substr(0, 3).toLowerCase() !== resolvedDevice.toLowerCase() + '\\') {
           vpath = resolvedDevice + '\\';
         }
